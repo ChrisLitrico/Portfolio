@@ -75,6 +75,11 @@
         content: 'CHI SONO';
       }
     }
+    a.portfolio-link {
+      &::after {
+        content: 'LAVORI';
+      }
+    }
     a.contact-link {
       &::after {
         content: 'CONTATTI';

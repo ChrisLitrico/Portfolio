@@ -1,0 +1,11 @@
+{
+  "portfolio": [
+    {
+      "cover": "/portfolio/1/first-project.png",
+      "title": "Leaf Shop",
+      "description": "React, Redux, Firebase, Sass",
+      "url": "https://ecommerce-leaf-clothes.netlify.app/"
+    }
+   
+  ]
+}
