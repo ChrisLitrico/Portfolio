@@ -1,6 +1,6 @@
 # Portfolio React con Sass
+![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/be73137a-6def-45c9-8dac-2671d4c1e2cd)
 
-![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/19e15b12-1825-4828-9196-35efaacbe21a)
 
 Questo è il mio portfolio personale, realizzato con React e Sass, che mette in mostra i miei progetti e le competenze nel campo dello sviluppo web.
 Caratteristiche principali
