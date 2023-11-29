@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Portfolio React con Sass
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/19e15b12-1825-4828-9196-35efaacbe21a)
 
-## Available Scripts
+Questo è il mio portfolio personale, realizzato con React e Sass, che mette in mostra i miei progetti e le competenze nel campo dello sviluppo web.
+Caratteristiche principali
 
-In the project directory, you can run:
+  - React: Utilizzo di React per creare un'esperienza utente fluida e reattiva.
+  - Sass: La parte grafica è gestita con Sass per un'organizzazione pulita e una facile manutenzione del codice.
+  - OpenStreetMap API: Integrazione di una mappa tramite l'API di OpenStreetMap per visualizzare la mia posizione o progetti basati su mappe.
+  - MailJS: La sezione "Contattami" è collegata direttamente alla mia email attraverso MailJS per semplificare il contatto.
 
-### `npm start`
+![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/5b3da2d1-2c53-487b-8f39-0d3c928a8bcd)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Struttura del Progetto
 
-### `npm test`
+Il progetto è organizzato in modo chiaro, con una suddivisione logica dei componenti React e dei file Sass per facilitare la comprensione e la manutenzione.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+      /portfolio
+      |-- src
+      |   |-- assets
+      |   |   |-- fonts
+      |   |   |-- img
+      |   |-- components
+      |   |   |-- About.js
+      |   |   |-- Contact.js
+      |   |   |-- Home.js
+      |   |   |-- Layout.js
+      |   |   |-- LettereAnimate.js
+      |   |   |-- Sidebar.js
+      |-- App.js
+      |-- index.js
+      |-- index.css
+      
 
-### `npm run build`
+## Configurazione
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  1. Installazione delle dipendenze:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+         npm install
+     
+  2. Avvio del server di sviluppo:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+          npm start
 
-### `npm run eject`
+Contatti
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Per qualsiasi domanda o collaborazione, non esitare a contattarmi direttamente dal sito del portfolio 🧑‍💻
