@@ -1,5 +1,6 @@
 # Portfolio React con Sass
-![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/be73137a-6def-45c9-8dac-2671d4c1e2cd)
+![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/b728abed-caa4-4e5f-88b2-9666f914b9b3)
+
 
 
 Questo è il mio portfolio personale, realizzato con React e Sass, che mette in mostra i miei progetti e le competenze nel campo dello sviluppo web.
@@ -7,6 +8,7 @@ Caratteristiche principali
 
   - React: Utilizzo di React per creare un'esperienza utente fluida e reattiva.
   - Sass: La parte grafica è gestita con Sass per un'organizzazione pulita e una facile manutenzione del codice.
+  - Spline: Software gratuito con cui ho creato il modello 3d che segue il cursore
   - OpenStreetMap API: Integrazione di una mappa tramite l'API di OpenStreetMap per visualizzare la mia posizione o progetti basati su mappe.
   - MailJS: La sezione "Contattami" è collegata direttamente alla mia email attraverso MailJS per semplificare il contatto.
 
@@ -27,6 +29,7 @@ Il progetto è organizzato in modo chiaro, con una suddivisione logica dei compo
       |   |   |-- Contact.js
       |   |   |-- Home.js
       |   |   |-- Layout.js
+      |   |   |-- Portfolio
       |   |   |-- LettereAnimate.js
       |   |   |-- Sidebar.js
       |-- App.js
