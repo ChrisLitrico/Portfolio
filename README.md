@@ -1,5 +1,5 @@
 # Portfolio React con Sass
-### https://portfolio-litrico.netlify.app/
+## [### https://portfolio-litrico.netlify.app/](https://christian-litrico-portfolio.netlify.app/)
 ![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/b728abed-caa4-4e5f-88b2-9666f914b9b3)
 
 
@@ -12,8 +12,8 @@ Caratteristiche principali
   - Spline: Software gratuito con cui ho creato il modello 3d che segue il cursore
   - OpenStreetMap API: Integrazione di una mappa tramite l'API di OpenStreetMap per visualizzare la mia posizione o progetti basati su mappe.
   - MailJS: La sezione "Contattami" è collegata direttamente alla mia email attraverso MailJS per semplificare il contatto.
+![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/6928f377-2148-4fc5-81d3-61f0cbcf1c08)
 
-![immagine](https://github.com/Umamitas/Portfolio/assets/113865375/5b3da2d1-2c53-487b-8f39-0d3c928a8bcd)
 
 
 ## Struttura del Progetto
