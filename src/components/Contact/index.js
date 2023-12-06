@@ -58,9 +58,9 @@ const Contact = () => {
             Interessato a qualsiasi tipo di progetto🧑‍💻
             <br />
             Se vuoi lasciare un commento sul mio lavoro, richiedere un
-            preventivo per il tuo sito web, o semplicemente scambiare due
-            chiacchiere, puoi inviarmi un'email utilizzando il modulo
-            sottostante. Sarò lieto di risponderti al più presto
+            preventivo per il tuo sito web o semplicemente scambiare due
+            chiacchiere, puoi inviarmi un messaggio utilizzando il modulo
+            sottostante. Sarò lieto di risponderti quanto prima!
           </p>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
