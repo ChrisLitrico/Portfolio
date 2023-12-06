@@ -69,6 +69,17 @@
       color: #333;
     }
   }
+
+  .spline {
+    width: 55%;
+    height: 100%;
+    top: 0;
+    padding-top: 10px;
+    margin-left: 0;
+    position: absolute;
+    right: 10px;
+    overflow: hidden;
+  }
 }
 
 @media screen and (max-width: 1200px) {
@@ -100,24 +111,13 @@
       margin: 20px auto 0 auto;
       width: 155px;
     }
-    .logo-container {
+    .spline {
       position: relative;
-      width: 150px;
+      width: 140%;
       height: auto;
-      top: 20px;
-      right: 0;
-      box-sizing: border-box;
+      top: 10px;
+      right: 40%;
       margin: auto;
-      left: 0;
-
-      svg {
-        position: absolute;
-        top: auto;
-        right: auto;
-        bottom: auto;
-        left: 0;
-        margin: auto;
-      }
     }
   }
 }
