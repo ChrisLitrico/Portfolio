@@ -1,15 +1,7 @@
-import './index.scss'
-import Spline from '@splinetool/react-spline'
+import Spline from '@splinetool/react-spline';
 
-const Logo = () => {
+export default function Logo() {
   return (
-    <div>
-      <Spline
-        className="logo"
-        scene="https://prod.spline.design/YQODGvnoEkdfOUfs/scene.splinecode"
-      />
-    </div>
-  )
+    <Spline className='logo-container'scene="https://prod.spline.design/YQODGvnoEkdfOUfs/scene.splinecode" />
+  );
 }
-
-export default Logo
