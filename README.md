@@ -8,7 +8,7 @@ Questo è il mio portfolio personale, realizzato con React e Sass, che mette in 
 Caratteristiche principali
 
   - React: Utilizzo di React per creare un'esperienza utente fluida e reattiva.
-  - Sass: La parte grafica è gestita con Sass per un'organizzazione pulita e una facile manutenzione del codice.
+  - Tailwind: La parte grafica è gestita con tailwind per un'organizzazione pulita e una facile manutenzione del codice.
   - Spline: Software gratuito con cui ho creato il modello 3d che segue il cursore
   - OpenStreetMap API: Integrazione di una mappa tramite l'API di OpenStreetMap per visualizzare la mia posizione o progetti basati su mappe.
   - MailJS: La sezione "Contattami" è collegata direttamente alla mia email attraverso MailJS per semplificare il contatto.
